@@ -1,1 +1,1 @@
-# hg_logger_android
+repo for android app download & update
